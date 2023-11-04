@@ -10,19 +10,19 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
+| Repository URL |https://github.com/SPECFEM/specfem2d|
+| Main/documentation website |https://specfem2d.readthedocs.io/en/latest/|
+| Year project was started |1995|
 | Number of contributors in the past year | `git shortlog -se --since=2022-10-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
+| Number of contributors in the lifetime of the project |>30|
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? |GitHubissues, mailing list|
+| Typical number of emails/comments per week? |0?|
+| Typical number of commits per week? |not sure|
+| Typical commit size | 5-10 files. `git log --shortstat` may be useful |
+| How does the project accept contributions? |pull requests  |
+| Does the project have an automated test suite? | yes|
+| Does the project use continuous integration? | yes?|
 | Are any legal/licensing steps required to contribute? | no or explain below |
 
 ### Install and run
@@ -30,8 +30,8 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [X] I have installed the software
+- [X] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
